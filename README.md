@@ -30,3 +30,4 @@ This project is designed to systematically retrieve and analyze data related to 
 - **Drug Target Information:** Cohere LLM is queried to provide drug target information. This information includes a detailed summary of the drug's known biological target and its mechanism of action. It also provides approaches towards the synthesis of new compounds approaching novel drugs for multi targets, give chemical and physical properties of the drug as well. Moreover, it provides target protein structures and formulas for the drug.
 
 - **Output:** Drug target information, preferred name of the drug, and molecular structure of the drug are presented to user 
+![Ouput](https://github.com/user-attachments/assets/95ad7cd5-d3b6-47b2-a2d1-aa88144abc23)
